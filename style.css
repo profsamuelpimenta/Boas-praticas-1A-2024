@@ -1,0 +1,24 @@
+/* Estilo do cabeçalho */
+header {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo do corpo da página */
+section {
+    margin: 0 1.5cm;
+    font-size: 16px;
+    color: black;
+}
+
+/* Estilo do rodapé */
+footer {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 0 1.5cm;
+    font-size: 14px;
+}
