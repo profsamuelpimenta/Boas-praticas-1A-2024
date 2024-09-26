@@ -20,7 +20,7 @@ footer {
     padding: 10px;
     text-align: center;
     margin-left: 0.5cm
-    margin-right: 0.5cm
+    margin-right: 1cm
     position: fixed;
     bottom: 0;
     width: calc(100% - 3cm); /* Ajusta o tamanho do rodapé conforme a margem */
