@@ -19,6 +19,10 @@ footer {
     color: white;
     padding: 10px;
     text-align: center;
-    margin: 0 1.5cm;
+    margin-left: 1.5cm;
+    margin-right: 1.5cm;
+    position: fixed;
+    bottom: 0;
+    width: calc(100% - 3cm); /* Ajusta o tamanho do rodapé conforme a margem */
     font-size: 14px;
 }
